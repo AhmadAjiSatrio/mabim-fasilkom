@@ -1,0 +1,68 @@
+body {
+  margin: 0px;
+}
+/* halaman index*/
+nav {
+  background-color: #4d70b6;
+  overflow: hidden;
+}
+input[type="text"],
+input[type="password"] {
+  width: 80%;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 20px;
+  float: right;
+  color: white;
+}
+nav a:hover {
+  text-decoration: none;
+  color: #4d70b6;
+  float: right;
+  padding: 20px;
+  background: #ffffff;
+}
+nav img {
+  float: left;
+}
+h1 {
+  color: #4d70b6;
+}
+
+/* halaman index*/
+/* halaman login*/
+input[type="button"] {
+  width: 90%;
+  border-radius: 12px;
+  height: 30px;
+  text-align: center;
+  margin: 5px;
+  background: lightblue;
+}
+.warp {
+  padding: 50px 500px 50px 500px;
+}
+.bg-login {
+  background-color: gold;
+  border-radius: 50px;
+  width: 450px;
+  height: 380px;
+}
+
+form a {
+  text-decoration: none;
+  width: 90%;
+  border-radius: 12px;
+  padding: 10px 0px 10px 0px;
+  margin: 5px;
+  display: inline-block;
+  color: white;
+  background-color: lightblue;
+}
+
+/* halaman login*/
